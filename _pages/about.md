@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 classes: wide
 ---
-Stuff & Things
+I am a PhD student in Public Policy at the Lee Kuan Yew School of Public Policy, National University of Singapore. Currently under the mentorship of Prof. Yuhao Ba, I work on finding causal evidence that can inform climate policy. 
 
 ## Professional
 
